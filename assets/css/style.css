@@ -8,7 +8,7 @@
 
 ::-webkit-scrollbar {
     width: 20px;
-    background-color: rgb(200,200,200);
+    background-color: rgb(200, 200, 200);
 }
 
 ::-webkit-scrollbar-track {
@@ -16,11 +16,11 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgb(120,120,120);
+    background: rgb(120, 120, 120);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: rgb(120,120,120);
+    background: rgb(120, 120, 120);
 }
 
 html,
@@ -35,4 +35,54 @@ body {
 * {
     font-family: 'Poppins', sans-serif;
     color: rgb(0, 0, 0);
+}
+
+.abertura {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    z-index: 999;
+}
+
+.abertura>div {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.abertura>div>span {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.abertura-img {
+    margin: 0;
+    padding: 0;
+    width: 40%;
+    position: relative;
+    top: 05%;
+    left: 30%;
+    animation: abertura 3s normal forwards ease-in-out;
+}
+
+@keyframes abertura {
+    0% {
+        opacity: 0;
+        transform: rotate(0deg)
+    }
+
+    100% {
+        opacity: 1;
+        transform: rotate(1080deg)
+    }
 }

@@ -45,6 +45,10 @@
   border-radius: 50%;
 }
 
+.button-mood [data-bs-target]:hover{
+  background-color: rgb(50,50,50);
+}
+
 .title-slide{
   font-size: 250%;
   font-style: italic;
