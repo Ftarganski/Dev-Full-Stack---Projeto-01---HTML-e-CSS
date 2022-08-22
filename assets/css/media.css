@@ -24,7 +24,16 @@
 
 /* // `md` applies to small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
+    .abertura-img {
+        width: calc(100vw);
+        height: calc(var(--width))!important;
+        }
 
+    .abertura>div{
+        flex-direction: column;
+        justify-content: center;
+    }
+    
     .row-nav {
         display: flex;
         flex-direction: column;
@@ -79,15 +88,7 @@
 
 /* // `sm` applies to x-small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-    .abertura-img {
-        width: calc(100vw);
-        height: calc(var(--width))!important;
-        }
-
-    .abertura>div{
-        flex-direction: column;
-        justify-content: center;
-    }
+  
    
    
     .redes {
