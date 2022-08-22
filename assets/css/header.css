@@ -15,7 +15,7 @@
 }
 
 .nav-login {
-    animation: imguci 3s normal forwards ease-in-out;
+    animation: imguci 6s normal forwards ease-in-out;
 }
 
 @keyframes imguci {
