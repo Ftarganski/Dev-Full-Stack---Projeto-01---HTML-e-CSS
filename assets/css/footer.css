@@ -9,12 +9,6 @@
     align-items: center;
 }
 
-/* .foot-menu {
-    color: white;
-    padding: 2% 1%;
-    box-sizing: border-box;
-} */
-
 .foot-nav {
     display: flex;
     flex-direction: row;

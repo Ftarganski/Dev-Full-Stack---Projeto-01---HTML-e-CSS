@@ -49,7 +49,7 @@ body {
 }
 
 .abertura>div {
-    display: block;
+    display: flex;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -61,17 +61,14 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 100%;
-    position: relative;
+    /* height: 100%; */
+    text-align: center;
 }
 
 .abertura-img {
     margin: 0;
     padding: 0;
-    width: 40%;
-    position: relative;
-    top: 05%;
-    left: 30%;
+    height: calc(100vh);
     animation: abertura 3s normal forwards ease-in-out;
 }
 

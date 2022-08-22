@@ -79,6 +79,17 @@
 
 /* // `sm` applies to x-small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+    .abertura-img {
+        width: calc(100vw);
+        height: calc(var(--width))!important;
+        }
+
+    .abertura>div{
+        flex-direction: column;
+        justify-content: center;
+    }
+   
+   
     .redes {
         display: block;
         width: 100%;

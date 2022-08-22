@@ -3,4 +3,4 @@ setTimeout(function(){
     while(msg.length > 0){
         msg[0].parentNode.removeChild(msg[0]);
     }
-}, 3500);
+}, 4000);
