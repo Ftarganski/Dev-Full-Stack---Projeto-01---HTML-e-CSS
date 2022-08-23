@@ -8,7 +8,7 @@ Professor: Tiago Luiz Ribeiro da Silva
 Aluno: Francis Targanski
 
 Projeto Final da disciplina HTML e CSS do curso de
-Desenvolvimento Web Full Stack do programa de Pósgraduações em Tecnologia, Inovação e Negócios Digitais
+Desenvolvedor Web Full Stack do programa de Pósgraduações em Tecnologia, Inovação e Negócios Digitais
 
 Demanda do projeto:
 
@@ -34,8 +34,7 @@ A intenção é que o projeto desenvolvido seja escalável, com a
 possibilidade futura de inserção de novas categorias, e que cada categoria
 seja única na descrição de seus itens, via modais. Além da escalabilidade
 pretende-se que no futuro o projeto possa implementar outras categorias
-como JavaScript para a melhoria da interação UX e a conexão com o back
-end.
+como JavaScript para a melhoria da interação UX e a conexão com o backend.
 
 Cada categoria terá seu modal exclusivo, já com informações
 referências importantes para a categoria em questão. Exemplificando, o
