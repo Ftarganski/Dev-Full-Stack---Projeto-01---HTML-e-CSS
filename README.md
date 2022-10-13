@@ -1,14 +1,14 @@
 # Dev. Full Stack - Projeto 01 - HTML e CSS
 
-Pós-graduações em Tecnologia,
-Inovação e Negócios Digitais
-Desenvolvimento Web Full Stack
+Pós-graduações em Tecnologia, Inovação e Negócios Digitais Desenvolvimento Web Full Stack
+
 Disciplina: HTML e CSS
+
 Professor: Tiago Luiz Ribeiro da Silva
+
 Aluno: Francis Targanski
 
-Projeto Final da disciplina HTML e CSS do curso de
-Desenvolvedor Web Full Stack do programa de Pósgraduações em Tecnologia, Inovação e Negócios Digitais
+Projeto Final da disciplina HTML e CSS do curso de Desenvolvedor Web Full Stack do programa de Pósgraduações em Tecnologia, Inovação e Negócios Digitais
 
 *****
 
